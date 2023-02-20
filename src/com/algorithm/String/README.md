@@ -24,5 +24,15 @@
 > #입력  
 > AlgoRithM  
 >
-> #출력  
+> #출력
 > aLGOrITHm
+
+
+## 3.문장 속 단어(indexOf(), subString())
+- 첫번째 줄 입력 : 공백이 존재하는 문자열
+- 출력 : 입력받은 문자열에 공백을 구분하여 가장 긴 단어를 출력
+> #입력  
+> it is time to study  
+> #출력  
+> study
+
