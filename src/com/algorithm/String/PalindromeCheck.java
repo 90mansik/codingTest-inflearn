@@ -6,7 +6,8 @@ public class PalindromeCheck {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        StringBuilder inSb = new StringBuilder(sc.nextLine().toLowerCase());
+        String inStr = sc.nextLine().toLowerCase().replaceAll("[^a-zA-Z]", "");
+        StringBuilder inSb = new StringBuilder(inStr);
 
         String result = checkPalindrome(inSb.toString(), inSb.reverse().toString());
         System.out.println(result);
