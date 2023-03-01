@@ -85,7 +85,7 @@
 > YES
 
 
-## 8. 유효한 팰린드롬[PalindromeCheck.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/PalindromeCheck.java)
+## 8. 유효한 팰린드롬([PalindromeCheck.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/PalindromeCheck.java))
 - 입력된 문자열이 팰린드롬이면 YES, 아니면 NO를 출력
 - 제한조건 : 알파벳만 가지고 회문을 검사, 대소문자 구분 X
 - 입력 : 길이 100을 넘지 않는 공백이 없는 문자열
