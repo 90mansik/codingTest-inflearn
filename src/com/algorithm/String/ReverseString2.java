@@ -3,7 +3,7 @@ package com.algorithm.String;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class ReversString2 {
+public class ReverseString2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

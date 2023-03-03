@@ -2,7 +2,7 @@
 
 --- 
 
-## 1.문자 찾기 (FindString.class)
+## 1.문자 찾기([FindString.class](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/FindString.java))
 - 입력
   - 첫번째 줄 입력 : 검색할 문자열
   - 두번째 줄 입력 : 찾고자 하는 문자
@@ -16,7 +16,7 @@
 > #출력  
 > 2
 
-## 2.대소문자 변환 (CaseConversion.class)
+## 2.대소문자 변환([CaseConversion.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/CaseConversion.java))
 - 입력 : 대소문자가 같이 존재하는 문자열
 - 출력 : 대문자는 소문자로, 소문자는 대문자로 변환된 문자열 출력
 - 제한조건 
@@ -29,7 +29,7 @@
 > aLGOrITHm
 
 
-## 3.문장 속 단어(indexOf(), subString())
+## 3.문장 속 단어([IndexOfString.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/IndexOfString.java))
 - 입력 : 공백이 존재하는 문자열
 - 출력 : 입력받은 문자열에 공백을 구분하여 가장 긴 단어를 출력
 > #입력  
@@ -38,7 +38,7 @@
 > study
 
 
-## 4.단어 뒤집기
+## 4.단어 뒤집기([ReverseString.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/ReverseString.java))
 - 입력
   - 첫번째 줄 입력 : 입력받을 알파벳 문자열의 횟수
   - 두번째 줄부터 입력 : 문자를 뒤집을 문자열
@@ -53,7 +53,7 @@
 > emiT  
 > eiB
 
-## 5.특정 문자 뒤집기
+## 5.특정 문자 뒤집기([ReverseString2.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/ReversString2.java))
 - 영어 알파벳과 특수문자로 구성된 문자열이 주어지면 영어 알파벳만 뒤집고, <br>
 특수문자는 자기 자리에 그대로 있는 문자열을 만들어 출력하는 프로그램을 작성
 - 입력 : 길이가 100을 넘지 않는 문자열
@@ -74,7 +74,7 @@
 > kset
 
 
-## 7. 회문 문자열
+## 7. 회문 문자열([PalindromeCheck.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/PalindromeCheck.java))
 - 입력된 문자열이 회문 문자열이면 "YES", 아니면 "NO"를 출력하는 프로그램 </br>
 - 제한조건 : 회문 검사 시 대소문자를 구분 하지 않음
 - 입력 : 길이 100을 넘지 않는 공백 없는 문자열
