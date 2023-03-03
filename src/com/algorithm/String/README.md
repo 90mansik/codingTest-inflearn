@@ -96,7 +96,7 @@
 > YES
 
 
-## 9. 숫자만 추출
+## 9. 숫자만 추출([FindOnlyNumbers.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/FindOnlyNumbers.java))
 - 문자와 숫자가 섞여있는 문자열이 주어지면 숫자만 추출하여 순서대로 자연수를 만듬
 - 0, 1, 2, 0 ,5를 추출 시 자연수 1205를 출력
 - 제한조건 : 추출한 자연수는 100,000,000을 넘지 않는다.
