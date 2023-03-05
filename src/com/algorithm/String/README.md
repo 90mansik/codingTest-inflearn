@@ -107,7 +107,7 @@
 >#출력 </br>
 >208
 
-## 10. 가장 짧은 문자거리(FindShortDistance.java)
+## 10. 가장 짧은 문자거리([FindShortDistance.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/FindShortDistance.java))
 - 한 개의 문자열 s와 문자 t가 주어지면 문자열 s의 각 문자가 문자 t와 떨어진 최소거리를 출력하는 프로그램을 작성
 - 입력 : 문자열 s, 문자 t
 - 제한조건 : 문자열과 문자는 소문자로만 주어짐, 길이는 100 이하
@@ -117,7 +117,7 @@
 >#출력 </br>
 > 1 0 1 2 1 0 1 2 2 1 0 </br>
 
-## 11. 문자열 압축
+## 11. 문자열 압축([]())
 - 알파벳 대문자로 이루어진 문자열을 입력받아 같은 문자가 연속으로 반복되는 경우 반복되는
   문자 바로 오른쪽에 반복 회수를 표기하는 방법으로 문자열을 압축하는 프로그램을 작성하시오.
   단 반복횟수가 1인 경우 생략 합니다.
