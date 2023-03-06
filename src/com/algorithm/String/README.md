@@ -133,7 +133,7 @@
 > #출력2 </br>
 > KST3SE2KFK3DJ2G2
 
-## 12. 암호 
+## 12. 암호 ([StringDecryption.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/String/StringDecryption.java)) 
 - 입력 : 첫 줄에는 보낸 문자의 개수(10을 넘지 안습니다)가 입력된다. 다음 줄에는 문자의 개수의 일곱 배 만큼의 #또는 * 신호가 입력됩니다. </br>
 - 출력 : 영희가 해석한 문자열을 출력합니다.
 - 현수는 영희에게 알파벳 대문자로 구성된 비밀편지를 매일 컴퓨터를 이용해 보냅니다.
