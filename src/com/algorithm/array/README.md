@@ -18,7 +18,7 @@
 > 7 9 6 12
 
 
-## 2.보이는 학 ([FindViewCntStudent.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/array/FindViewCntStudent.java))
+## 2.보이는 학생 ([FindViewCntStudent.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/array/FindViewCntStudent.java))
 - 선생님이 N명의 학생을 일렬로 세웠습니다. 일렬로 서 있는 학생의 키가 앞에서부터 순서대로 주어질 때, 맨 앞에 서있는 </br>
   선생님이 볼 수 있는 학생의 수를 구하는 프로그램을 작성
 - 앞에 서 있는 사람들보다 크면 보이고, 작거나 같으면 보이지 않습니다.
@@ -32,3 +32,28 @@
 > 130 135 148 140 145 150 150 153 </br>
 > #출력 </br>  
 > 5
+
+
+//
+
+## 3.가위바위보 ([FindLargerNumberThanPreviousOne.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/array/FindLargerNumberThanPreviousOne.java))
+- A, B 두 사람이 가위바위보 게임을 진행.
+- 총 N번의 게임을 하여 A가 이기면 A를 출력하고, B가 이기면 B를 출력. 비길 경우에는 D를 출력
+- 가위, 바위, 보의 정보는 1:가위, 2:바위, 3:보
+- 각 회의 승자를 출력하는 프로그램 작성
+- 입력
+  - 첫 번째 줄 : 게임 횟수인 자연수 N(1<=N<=100)
+  - 두 번째 줄 : A가 낸 가위, 바위, 보 정보가 N개
+  - 세 번째 줄 : B가 낸 가위, 바위, 보 정보가 N개
+- 출력 : 각 줄에 각 회의 승자를 출력 비겼을 경우는 D를 출력
+
+> #입력  
+> 5 </br>  
+> 2 3 3 1 3 </br>
+> 1 1 2 2 3 </br>
+> #출력 </br>  
+> A </br>
+> B </br>
+> A </br>
+> B </br>
+> D </br>
