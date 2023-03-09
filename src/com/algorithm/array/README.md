@@ -48,12 +48,28 @@
 - 출력 : 각 줄에 각 회의 승자를 출력 비겼을 경우는 D를 출력
 
 > #입력  
-> 5 </br>  
+> 5 </br> 
 > 2 3 3 1 3 </br>
-> 1 1 2 2 3 </br>
-> #출력 </br>  
+> 1 1 2 2 3 </br>  
+> 
+> #출력 </br> 
 > A </br>
 > B </br>
 > A </br>
 > B </br>
 > D </br>
+
+## 4.피보나치수열([FibonacciNumbers.java](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/array/FibonacciNumbers.java))
+- 수열의 총 항의 수 N을 입력 받아 앞의 2개의 수를 합하여 다음 숫자가 되는 피보나치 수열을 생성
+- 입력
+  - 첫 번째 줄 : 총 항수 N(3<=N<=45)
+- 출력 
+  - 피보나치 수열을 출력
+
+> #입력  
+> 10 </br>  
+> 
+> #출력 </br> 
+> 1 1 2 3 5 8 13 21 34 55 </br>
+
+
