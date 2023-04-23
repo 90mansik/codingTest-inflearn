@@ -1,4 +1,4 @@
-# hash
+# Hash
 
 --- 
 
@@ -21,3 +21,30 @@
 >
 > #출력  
 > C
+
+
+## 2. 아나그램(HashMap)([Test2.class](https://github.com/90mansik/codingTest-inflearn/blob/master/src/com/algorithm/hash/Test2.java))
+- 설명
+  - 길이가 같은 두 개의 단어가 주어지면 두 단어가 아나그램인지 판별하는 프로그램을 작성하세요. 아나그램 판별시 대소문자가 구분됩니다.
+- 입력
+  - 첫 줄에 첫 번째 단어가 입력
+  - 두 번째 줄에 두 번째 단어
+- 출력
+  - 학급 회장으로 선택된 기호를 출력
+- 제한조건
+  - 단어의 길이는 100을 넘지 않는다.
+
+> #입력  
+> AbaAeCe  
+> baeeACA
+>  
+> #출력  
+> YES
+>  
+> #입력  
+> abaCC  
+> Caaab
+>   
+> #출력  
+> NO
+
